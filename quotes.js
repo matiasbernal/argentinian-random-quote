@@ -23,6 +23,10 @@ const data = [
 		quote: "Con 15 pesos me hago alto guiso",
 		author: "Desconocido",
 	},
+	{
+		quote: "y... es todo un tema",
+		author: "Redditurro",
+	},
 ];
 
 module.exports = data;
